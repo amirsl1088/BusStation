@@ -1,0 +1,15 @@
+C:\dataaaa\BusStation\BusStation\bin\Debug\net7.0\BusStation.exe
+C:\dataaaa\BusStation\BusStation\bin\Debug\net7.0\BusStation.deps.json
+C:\dataaaa\BusStation\BusStation\bin\Debug\net7.0\BusStation.runtimeconfig.json
+C:\dataaaa\BusStation\BusStation\bin\Debug\net7.0\BusStation.dll
+C:\dataaaa\BusStation\BusStation\bin\Debug\net7.0\BusStation.pdb
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.csproj.AssemblyReference.cache
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.AssemblyInfoInputs.cache
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.AssemblyInfo.cs
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.csproj.CoreCompileInputs.cache
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.dll
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\refint\BusStation.dll
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.pdb
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\BusStation.genruntimeconfig.cache
+C:\dataaaa\BusStation\BusStation\obj\Debug\net7.0\ref\BusStation.dll
